@@ -1,4 +1,4 @@
-# containsMany
+# containsAll
 Extend the ability of classList, relList, sandBox and htmlFor to search for many instead of single.
 
 
