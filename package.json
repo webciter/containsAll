@@ -1,0 +1,24 @@
+{
+  "name": "webciter/containsAll",
+  "version": "1.0.0",
+  "description": "",
+  "main": "DOMTokenList.js",
+  "dependencies": {
+  
+  }
+  "scripts": {
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/webciter/containsAll.git"
+  },
+  "keywords": [
+    "contains","classList","relList"
+  ],
+  "author": "David Clews",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/webciter/containsAll/issues"
+  },
+  "homepage": "https://github.com/webciter/containsAll#readme"
+}
