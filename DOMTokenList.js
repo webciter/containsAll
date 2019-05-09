@@ -1,4 +1,6 @@
-/* code edited by David Clews */
+/* code edited by David Clews 
+   http://davidclews.com
+*/
 
 /**
  * containsAll
